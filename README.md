@@ -23,4 +23,4 @@ A simple FastAPI project for managing books with full CRUD operations using Pyda
 pip install fastapi uvicorn
 
 # Run the app
-uvicorn main:app --reload
+uvicorn books:app --reload
